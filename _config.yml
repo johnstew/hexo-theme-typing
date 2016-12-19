@@ -4,7 +4,7 @@ language: en
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Archives: /blog
 rss: /atom.xml
 
 # Content
@@ -12,7 +12,7 @@ fancybox: true
 
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-89176659-1
 favicon: /favicon.ico
 twitter:
 google_plus:
@@ -22,9 +22,9 @@ fb_app_id:
 
 # Profile
 nickname: John Stewart
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
+description: MLB Advanced Media Software Engineer. Convinced I was put on this planet to eat tacos and occasionally build things.
 links:
-  Blog: /archives
+  Blog: /blog
   GitHub: https://github.com/johnstew
   Twitter: http://twitter.com/j0hnstew
   Codepen: http://codepen.io/johnstew
